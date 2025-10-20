@@ -28,8 +28,6 @@ In this project I used:
 
 ## Screenshots
 
-![Krycha Store test](https://github.com/Krycha94/fullstack-nextjs-ecommerce/blob/main/public/krycha-store-test.jpg?raw=true)
-
 ## Installation
 
 Clone repo and install all the dependencies
