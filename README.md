@@ -32,10 +32,6 @@ In this project I used:
 
 Clone repo and install all the dependencies
 
-```
-
-```
-
 Create file named
 
 ```
