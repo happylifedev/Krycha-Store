@@ -33,8 +33,7 @@ In this project I used:
 Clone repo and install all the dependencies
 
 ```
-git clone https://github.com/Krycha94/fullstack-nextjs-ecommerce.git
-npm install
+
 ```
 
 Create file named
